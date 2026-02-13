@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PasitosApp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyB5IPp5c8GsOIRJ8Pm5W4RLnOf7wZ3rFDw
+    </string>
+
+    <string name="texto_info">Última ubicación guardada:</string>
+    <string name="texto_bateria">Batería: </string>
+    <string name="texto_Latitud">Latitud = </string>
+    <string name="texto_Longitud">Longitud = </string>
+
+</resources>
